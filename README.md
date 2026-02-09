@@ -2,4 +2,4 @@
 
 Identity and access management
 
-Update 7 by Priya Sharma
+Update 8 by David Kim
